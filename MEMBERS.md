@@ -18,7 +18,8 @@
 |     Damian Kalka          | [kalkson](https://github.com/kalkson)                    | HTML, CSS, SASS, JS, React, Gatsby, Node.js                     | 
 |     Wojciech Młyńczak     | [Southeaven](https://github.com/Southeaven)              | HTML, CSS/SASS, JS, TypeScript, React, Vue, Python, Rust, Java  |
 |     Krzysztof Jerzyk      | [Jerzor](https://github.com/jerzor)                      | HTML, CSS, SASS, JS, Node.js                                    | 
-
+|      Oliwer Banach        | [obanach](https://github.com/obanach)                    | HTML, CSS, JS, PHP, MySQL, Node.js                              | 
+   
  - Java
  - Kotlin
  - Scala
